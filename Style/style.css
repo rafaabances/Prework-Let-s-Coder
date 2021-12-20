@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    margin: 10px;
+    border: 2px solid brown;
+}
+
+.titulo{
+    color: brown;
+    font-size:larger;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.King{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.Queen{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.Bishop{
+    text-align: right;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.Knight{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px; 
+}
+.Rook{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.Pawn{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 5px;
+}
+
+
+.Texto{
+    text-align: center;
+    font-size: small;
+    padding: 5px;
+}
+
+
+body{
+    background:url("../chess.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    
+ 
